@@ -1,2 +1,2 @@
 # SegundoGit
-Senai - Professora Lucas segundo Git = status On
+Senai - Professor Lucas segundo Git = status On
